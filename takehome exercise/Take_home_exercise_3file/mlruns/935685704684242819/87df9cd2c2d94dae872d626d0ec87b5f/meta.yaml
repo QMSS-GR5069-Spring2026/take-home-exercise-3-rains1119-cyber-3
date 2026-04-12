@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/liyunxiao/Desktop/QMSS applied data analysis/takehome
+  exercise/Take_home_exercise_3file/notebooks/../mlruns/935685704684242819/87df9cd2c2d94dae872d626d0ec87b5f/artifacts
+end_time: 1775962533053
+entry_point_name: ''
+experiment_id: '935685704684242819'
+lifecycle_stage: active
+run_id: 87df9cd2c2d94dae872d626d0ec87b5f
+run_name: bemused-cow-496
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1775962530614
+status: 3
+tags: []
+user_id: liyunxiao

@@ -1,0 +1,11 @@
+artifact_location: file:///Users/liyunxiao/Desktop/QMSS applied data analysis/takehome
+  exercise/Take_home_exercise_3file/notebooks/../mlruns/935685704684242819/models/m-ccb8ead38ac24b99a0bec5d2bbfa7f9e/artifacts
+creation_timestamp: 1775962536307
+experiment_id: '935685704684242819'
+last_updated_timestamp: 1775962538737
+model_id: m-ccb8ead38ac24b99a0bec5d2bbfa7f9e
+model_type: null
+name: model
+source_run_id: a41896f3b3ef4fab8bcb89c21def6b6a
+status: 2
+status_message: null

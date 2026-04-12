@@ -1,0 +1,24 @@
+artifact_path: file:///Users/liyunxiao/Desktop/QMSS applied data analysis/takehome
+  exercise/Take_home_exercise_3file/notebooks/../mlruns/935685704684242819/models/m-ee0ce60f79054038b4fdc97be3dc4544/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.9
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.8.0
+    skops_trusted_types: null
+mlflow_version: 3.11.1
+model_id: m-ee0ce60f79054038b4fdc97be3dc4544
+model_size_bytes: 484673
+model_uuid: m-ee0ce60f79054038b4fdc97be3dc4544
+prompts: null
+run_id: 0d62900fb08741bcb66db095113557cc
+utc_time_created: '2026-04-12 02:55:33.513947'

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/liyunxiao/Desktop/QMSS applied data analysis/takehome
+  exercise/Take_home_exercise_3file/notebooks/../mlruns/935685704684242819/0c09bec79c554f8b94312e645e5acd88/artifacts
+end_time: 1775962547173
+entry_point_name: ''
+experiment_id: '935685704684242819'
+lifecycle_stage: active
+run_id: 0c09bec79c554f8b94312e645e5acd88
+run_name: resilient-bat-354
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1775962544260
+status: 3
+tags: []
+user_id: liyunxiao
