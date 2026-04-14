@@ -1,0 +1,9 @@
+artifact_location: file:///Users/liyunxiao/Desktop/QMSS applied data analysis/takehome
+  exercise/Take_home_exercise_3file/notebooks/../mlruns/935685704684242819
+creation_time: 1775962515785
+experiment_id: '935685704684242819'
+last_update_time: 1775962515785
+lifecycle_stage: active
+name: f1_podium_prediction
+trace_location: null
+workspace: default
